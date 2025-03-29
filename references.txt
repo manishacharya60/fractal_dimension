@@ -14,3 +14,13 @@ Research Papers:
 
 Imp: https://www.sciencedirect.com/science/article/abs/pii/S0045790617331075
 
+Blog structure:
+
+Introduction to cancer detection challenges.
+Explanation of fractal dimensions and their relevance to tumors.
+How fractal analysis provides insights beyond traditional methods.
+Presenting a CNN approach (ResNet18).
+Showing code and results of the CNN model.
+Discussion on combining fractal analysis with CNNs for improved detection.
+
+
