@@ -1,0 +1,5 @@
+Datasets for references: 
+1. https://www.kaggle.com/c/histopathologic-cancer-detection/data
+2. https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
+3. https://portal.gdc.cancer.gov/
+
