@@ -3,3 +3,8 @@ Datasets for references:
 2. https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
 3. https://portal.gdc.cancer.gov/
 
+Research Papers:
+1: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+2: https://www.mdpi.com/2673-4125/2/1/5?utm_source=chatgpt.com
+3: https://pmc.ncbi.nlm.nih.gov/articles/PMC10390093/?utm_source=chatgpt.com
+4: https://www.sciencedirect.com/science/article/pii/S2772906024002206?utm_source=chatgpt.com
