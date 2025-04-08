@@ -21,5 +21,5 @@ This project implements a CNN model for classifying tissue images as benign or m
 
 ## File Structure
 
-. ├── datasets/ │ ├── malignant_tissues/ # Folder with >2000 images of malignant tissue │ └── benign_tissues/ # Folder with >2000 images of benign tissue ├── fractal_dimension.py # Contains the box-counting algorithm to compute fractal dimensions. ├── model.py # Defines the CNN model (ResNet18 with fractal dimension integration). ├── train.py # Training script with custom dataset, model training, and wandb logging. ├── streamlit_app.py # Streamlit UI to display fractal dimensions and classification output. ├── requirements.txt # Python dependencies. └── README.md # This file
+. ├── datasets/ │ ├── malignant_tissues/ # Folder with >2000 images of malignant tissue │ └── benign_tissues/ # Folder with >2000 images of benign tissue ├── fractal_dimension.py # Contains the box-counting algorithm to compute fractal dimensions. ├── model.py # Defines the CNN model (ResNet18 with fractal dimension integration). ├── train.py # Training script with custom dataset, model training, and wandb logging. ├── streamlit_app.py # Streamlit UI to display fractal dimensions and classification output. ├── requirements.txt # Python dependencies. └── README.md
 
