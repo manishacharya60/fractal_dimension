@@ -1,5 +1,7 @@
-Pre-requisite: You may need to create a Weight & Biases account (https://wandb.ai/home) for proper implementation.
-Aamod Update: I've extracted all the image extensions 
+Pre-requisite: You may need to create a Weight & Biases account (https://wandb.ai) for proper implementation.
+Update: We've extracted all the image extensions from different subfolders that the original dataset directory contained and categorized into simpler malignant & benign sub-folders.
+
+Datasets from: https://www.kaggle.com/datasets/ambarish/breakhis
 # Cancer Tissue Fractality Detector
 
 This project implements a CNN model for classifying tissue images as benign or malignant by leveraging both deep image features from a pre-trained ResNet18 and additional mathematical fractal dimensions computed via a box-counting algorithm. A Streamlit-based UI is also provided for interactive evaluation of the fractal dimension on any tissue image. Training metrics are logged using Weights & Biases (wandb) and final accuracy metrics are exported as a JSON file.
